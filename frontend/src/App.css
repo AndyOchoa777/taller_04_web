@@ -1,0 +1,17 @@
+.health-section {
+  background-color: #e9f7ef;
+  border: 1px solid #27ae60;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.health-section h4 {
+  color: #1e8449;
+  margin-bottom: 10px;
+}
+
+.health-section p {
+  color: #2c3e50;
+  font-size: 1.1rem;
+}
